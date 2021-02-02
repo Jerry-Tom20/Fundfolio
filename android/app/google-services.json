@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282915524451",
+    "project_id": "doctype-766ab",
+    "storage_bucket": "doctype-766ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282915524451:android:fae1110a8383672a254d56",
+        "android_client_info": {
+          "package_name": "fundfolio.fund_folio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282915524451-pqd4qesiij8ho5c3kl9kauc62v5gd4aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfbkncUWNUHDmm1kXxclIY7yBk_WBzKwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282915524451-pqd4qesiij8ho5c3kl9kauc62v5gd4aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
